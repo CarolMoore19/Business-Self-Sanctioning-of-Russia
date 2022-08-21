@@ -9,3 +9,5 @@ Following Russia’s full-scale invasion of Ukraine on February 24, many countri
 
 The database as of July 31, 2022 covers 2,479 companies across 75 countries and 55 industries. The response variable is a company’s status vis-a-vis operations in Russia:  "Leave": explicit action to close branches in Russia or stop orders to Russia; "Stay": take no action; business as usual; "Wait": hold off planned investment ('buy time') or scale back operations.  Features included in the regression were industry (aggregated to 7 to 9 categories), presence of official sanctions by the country of the company's headquarters, global revenues, and percentage of revenues from Russia.
 
+Markov Chain Monte Carlo estimates of the slope and intercept parameters with priors ~N(0,1) found that companies in the healthcare/pharma industry were less likely to leave and more likely to stay compared to the reference industry, consumer cyclicals.  
+
