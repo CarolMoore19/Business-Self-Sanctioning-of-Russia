@@ -2,7 +2,7 @@
 ### Class Project for Bayesian Machine Learning
 ### Authors: Elina Ribakova, Diana Morris, Carol Moore
 ### Data was compiled by the Kyiv School of Economics (KSE) Leave Russia project.  
-### See https://leave-russia.org/ to learn more about Leave Russia.
+### See https://leave-russia.org/ to learn more about Leave Russia and the data.
 ### This analysis and the views expressed are independent from KSE and the Leave Russia Project. Any errors are the responsibility of the authors.
 ### Abstract
 
