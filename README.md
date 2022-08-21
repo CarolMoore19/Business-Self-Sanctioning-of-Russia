@@ -1,7 +1,8 @@
 # Business-Self-Sanctioning-of-Russia
 ### Class Project for Bayesian Machine Learning
 ### Authors: Elina Ribakova, Diana Morris, Carol Moore
-### Data was compiled by the Kiev School of Economics (KSE) Leave Russia project and provided to the authors.  https://leave-russia.org/
+### Data was compiled by the Kiev School of Economics (KSE) Leave Russia project and provided to the authors.  
+### See https://leave-russia.org/ to learn more about Leave Russia.
 ### This analysis reflects the work and opinions of the authors only and is independent from KSE and the Leave Russia Project. 
 ### Abstract
 
