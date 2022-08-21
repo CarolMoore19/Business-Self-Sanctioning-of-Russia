@@ -3,7 +3,7 @@
 ### Authors: Elina Ribakova, Diana Morris, Carol Moore
 ### Data was compiled by the Kyiv School of Economics (KSE) Leave Russia project.  
 ### See https://leave-russia.org/ to learn more about Leave Russia.
-### This analysis reflects the work and opinions of the authors only and is independent from KSE and the Leave Russia Project. 
+### This analysis and the views expressed are independent from KSE and the Leave Russia Project. Any errors are the responsibility of the authors.
 ### Abstract
 
 Following Russia’s full-scale invasion of Ukraine on February 24, 2022 many governments imposed severe financial and trade sanctions on Russia, including its access to global payments systems and the U.S. dollar, sovereign debt trading, commodity exports, and access to critical technology.  There is also an emerging phenomenon of “self-sanctioning”: multinational companies exiting the Russian market, whether partial or fully, temporarily, or permanently, despite not being explicitly directed to do so by sanctions. In this analysis, we estimate a Bayesian multinomial logistic regression model to identify the factors associated with a companies' decisions to curtail business with Russia, and to what extent. 
